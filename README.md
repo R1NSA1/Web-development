@@ -1,1 +1,1 @@
-https://github.com/VladimirAndropov/ono-tebe-nado-ad
+https://github.com/R1NSA1/Web-development/ono-tebe-nado
